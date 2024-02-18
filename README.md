@@ -24,3 +24,7 @@ Monetary value reflects the amount a customer spends with the brand during a
 particular period. It's important to differentiate treatment for big spenders from
 customers who spend less, and analyzing monetary divided by frequency provides
 the average purchase amount for segmentation.
+
+![RFM Analysis](https://github.com/Hk18x/Customer-Segmentation-Using-RFM-Analysis/assets/99315582/b0088db2-595d-4f79-be63-3ecd6c0cd7df)
+
+
